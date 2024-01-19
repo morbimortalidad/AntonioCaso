@@ -1,0 +1,178 @@
+*{
+    margin: 0px;
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.button-ini{
+    background-color:  #102d66 !important;
+    color: #ffff !important;
+}
+
+header {
+    height: 70px;
+    width: 100%;
+    background-color: #000020;
+    color: #ffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.a1{
+    width: 90%;
+    font-size: 80%;
+}
+
+aside{
+    width: 32%;
+    height: 100vh;
+    background-color: white;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section{
+    width: 68%;
+    
+
+   float: right;
+   display: flex;
+   justify-content: center;
+
+}
+
+.button{
+    display: flex;
+    flex-direction: column;  
+    justify-content: center; 
+    width: 100%;
+    align-items: center;
+}
+
+.button a{
+    width: 70%;
+    background-color: #f4f4f4;
+    color: #102d66;
+    transition: .2s;
+    padding: 20px 15px;
+    font-weight: bold;
+}
+
+.button a:hover{
+    color: white;
+    background-color: #102d66;
+}
+
+
+.b1{
+    border-radius: 15px 15px 0px 0px;
+}
+
+.b2{
+    border-radius: 0px 0px 15px 15px;
+}
+
+.span{
+    width: 70%;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    color: gray;
+}
+
+.main{
+    width: 80%;
+}
+
+.dg{
+    font-size: 20px;
+    color: gray;
+    display: flex;
+    align-items: center;
+}
+
+.titulo{
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+.titulo2{
+    margin-top: 20px;
+}
+
+.li{
+    list-style: none;
+    margin-top: 20px;
+}
+
+.opciones{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.op-w{
+    width: 100%;
+    margin-left: 20px;
+}
+
+.espacio{
+    margin-top: 30px;
+}
+
+.espacio2{
+    margin-top: 10px;
+}
+
+.txt{
+    text-align: justify;
+}
+
+.img-h{
+    width: 50%;
+}
+
+.siguiente{
+    height: 100px;
+    background-color:  #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.siguiente h1{
+    color:  #102d66;
+}
+
+.siguiente a{
+    width: 80%;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.wght{
+    width: 50%;
+}
+.imgs{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.espacio3{
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+}
+
+.w2{
+    width: 30%;
+}
